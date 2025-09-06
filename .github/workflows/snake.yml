@@ -1,0 +1,54 @@
+name: تحديث snake animation في README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # كل 12 ساعة
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout المستودع
+        uses: actions/checkout@v3
+
+      - name: توليد snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          palette: github-dark
+
+      - name: تحديث README
+        run: |
+          # إنشاء مجلد للصورة لو مش موجود
+          mkdir -p assets
+          # نقل الصورة للمجلد
+          mv dist/snake.svg assets/snake.svg
+          
+          # لو README مش موجود، نعمل واحد جديد
+          if [ ! -f README.md ]; then
+            echo "# ${GITHUB_REPOSITORY}" > README.md
+          fi
+
+          # إضافة أو تحديث السطر الخاص بالثعبان
+          if grep -q "snake.svg" README.md; then
+            echo "README موجود بالفعل مع snake.svg، تحديث الصورة فقط."
+          else
+            echo "![snake](assets/snake.svg)" >> README.md
+          fi
+
+      - name: Commit & Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/snake.svg
+          git commit -m "تحديث snake.svg تلقائي"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
