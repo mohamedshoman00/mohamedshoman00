@@ -14,7 +14,7 @@
   <a href="https://wa.me/201223330261" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Whatsapp" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="[https://your-website.com/your-resume.pdf](https://drive.google.com/file/d/1v6iEOx4_EFuyvBN5hAyhCGVRwkxojT6I/view?usp=drive_link)" target="_blank">
+  <a href="https://drive.google.com/file/d/1v6iEOx4_EFuyvBN5hAyhCGVRwkxojT6I/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=adobe&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Resume" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
