@@ -32,7 +32,19 @@
 
 ###
 
-<p align="left">I'm Mohamed Shoman from Cairo<br><br>- 🔭 I’m working as a Front-End Developer, building interactive and responsive web applications using React.js, JavaScript, HTML, CSS, and Tailwind CSS.<br>- 📚 I'm currently learning advanced Next.js features, TypeScript, and exploring full-stack development concepts.<br>- ⚡ In my free time I enjoy contributing to open-source projects, exploring new tech trends, and solving algorithm challenges.<br>- 💼 Check out my projects: [Portfolio](https://shoman-portfolio.vercel.app/) | [Outly Project](https://outly-project.vercel.app/) | [Faster Education Platform](https://faster-education.com/)<br>- 🌱 I’m always improving my skills in modern web development and UI/UX design.<br>- 🤝 I’m open to collaboration on innovative web projects and exciting opportunities.</p>
+<p align="left">
+  Hi, I’m <b>Mohamed Shoman</b> from Cairo! 👋<br><br>
+
+  - 🔭 I’m currently working as a <b>Front-End Developer</b>, building interactive and responsive web applications using <b>React.js, JavaScript, HTML, CSS, and Tailwind CSS</b>.<br>
+  - 📚 I’m learning <b>advanced Next.js features</b>, <b>TypeScript</b>, and exploring full-stack development concepts.<br>
+  - ⚡ In my free time, I enjoy contributing to <b>open-source projects</b>, exploring <b>new tech trends</b>, and solving <b>algorithm challenges</b>.<br>
+  - 💼 Check out my projects: 
+    <a href="https://shoman-portfolio.vercel.app/">Portfolio</a> | 
+    <a href="https://outly-project.vercel.app/">Outly Project</a> | 
+    <a href="https://faster-education.com/">Faster Education Platform</a><br>
+  - 🌱 I’m always improving my skills in <b>modern web development</b> and <b>UI/UX design</b>.<br>
+  - 🤝 I’m open to <b>collaboration</b> on innovative web projects and exciting opportunities.
+</p>
 
 ###
 
