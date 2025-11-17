@@ -38,7 +38,8 @@ Hi, I’m <b>Mohamed Shoman</b> from Cairo! 👋<br><br>
 - 💼 Check out my projects: 
   <a href="https://shoman-portfolio.vercel.app/" style="color:#4CAF50; text-decoration:none;">Portfolio</a> | 
   <a href="https://outly-project.vercel.app/" style="color:#FF9800; text-decoration:none;">Outly Project</a> | 
-  <a href="https://faster-education.com/" style="color:#03A9F4; text-decoration:none;">Faster Education Platform</a><br>
+  <a href="https://faster-education.com/" style="color:#03A9F4; text-decoration:none;">Faster Education Platform</a> |
+  <a href="https://mare-boutique.com/" style="color:#03A9F4; text-decoration:none;">E-Commerce Web Application — Mare Boutique</a><br>
 - 🌱 I’m always improving my skills in <b>modern web development</b> and <b>UI/UX design</b>.<br>
 - 🤝 I’m open to <b>collaboration</b> on innovative web projects and exciting opportunities.
 </p>
