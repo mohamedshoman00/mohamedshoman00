@@ -70,11 +70,13 @@ Hi, I’m <b>Mohamed Shoman</b> from Cairo! 👋<br><br>
 <h3 align="left" style="color:#E91E63;">🔥 My Stats</h3>
 
 <br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph-dark.svg" />
+  <img 
+    alt="Pacman contribution graph" 
+    src="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph.svg" />
 </picture>
 
 ###
