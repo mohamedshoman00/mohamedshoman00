@@ -71,12 +71,6 @@ Hi, I’m <b>Mohamed Shoman</b> from Cairo! 👋<br><br>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedshoman00/mohamedshoman00/output/pacman-contribution-graph.svg">
